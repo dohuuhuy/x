@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_dropdown_dropdowns",
+  "info": {
+    "name": "dropdown",
+    "icon": "angle-right",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string"
+    },
+    "link": {
+      "type": "string"
+    },
+    "type": {
+      "type": "string"
+    },
+    "items": {
+      "collection": "menus"
+    }
+  }
+}
